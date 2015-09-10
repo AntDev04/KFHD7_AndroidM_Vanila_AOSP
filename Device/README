@@ -3,3 +3,6 @@ By Hashcode
 Bootimg setup by Verygreen
 
 # Modified for AOSP Stock functionality by AntDev04
+
+Also all omap4-common and bowser-common have been merged into this folder until further notice
+to help nexus-ize the build process to more that of a Nexus 7 2012(Gouper in Tree)

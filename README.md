@@ -15,4 +15,4 @@
  built for the KFHD7(TATE ONLY NOT SOHO) but you have to build the 
  Uboot with a custom boot.img as it is embedded within the Boot.img
  
-
+THIS IS A WORK-IN-PROGRESS NO source code ACTUALLY WORK.
