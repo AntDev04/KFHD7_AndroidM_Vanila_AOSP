@@ -1,0 +1,3 @@
+# set default lcd density to TVDPI
+ro.sf.lcd_density=213
+
